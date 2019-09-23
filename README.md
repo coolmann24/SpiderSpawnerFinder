@@ -8,4 +8,8 @@ Notes:
 
 -The search is pretty unoptimized unlike the Blaze Finder.
 
+-I'm pretty sure the spawner Y level is screwed up.
+
+-It's actually much harder to get the exact location a cave spider spawner is placed, so in this finder I basically just use the location of the structure piece that has a spawner. This finder may tell you that you have an in range cluster but some spawners are actually out of range.
+
 -Use at your own discretion.
